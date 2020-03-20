@@ -1,0 +1,1 @@
+{"numberOfBeds":2,"numberOfRoom":1,"nameOfGuest":"OLga Klusevich","cost":500}
